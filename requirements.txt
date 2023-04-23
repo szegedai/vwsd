@@ -1,0 +1,15 @@
+multilingual-clip==1.0.10
+numpy==1.23.5
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+open-clip-torch==2.10.1
+scikit-learn==1.2.1
+scipy==1.10.0
+sentencepiece==0.1.97
+spams-bin==2.6.4
+tokenizers==0.13.2
+torch==1.13.1
+torchvision==0.14.1
+transformers==4.26.0
